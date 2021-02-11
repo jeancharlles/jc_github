@@ -1,2 +1,2 @@
 # jc_github
-Repositório Git Hub para projetos da Escola
+Repositório Git Hub para projetos
